@@ -37,12 +37,9 @@ make the final styled output video.
 1. https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e
 2. https://data-flair.training/blogs/cartoonify-image-opencv-python/
 3. https://stackoverflow.com/questions/55508615/how-to-pixelate-image-using-opencv-in-pytho
-4. https://stackoverflow.com/questions/47143332/how-to-pixelate-a-square-image-to-256-big-pi
-xels-with-python
-5. https://www.codegrepper.com/code-examples/python/frameworks/-file-path-python/how+to+
-play+video+in+opencv+python
-6. https://www.proquest.com/docview/1441936888/fulltextPDF/6699167900684A54PQ/1?acco
-untid=135034
+4. https://stackoverflow.com/questions/47143332/how-to-pixelate-a-square-image-to-256-big-pixels-with-python
+5. https://www.codegrepper.com/code-examples/python/frameworks/-file-path-python/how+to+play+video+in+opencv+python
+6. https://www.proquest.com/docview/1441936888/fulltextPDF/6699167900684A54PQ/1?accountid=135034
 7. https://pysource.com/2018/10/11/how-to-create-a-cartoon-effect-opencv-with-python/
 8. https://dl.acm.org/doi/pdf/10.1145/987657.987676
 9. https://dl.acm.org/doi/pdf/10.1145/2071423.2071500
